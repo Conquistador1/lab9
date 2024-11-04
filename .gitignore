@@ -1,0 +1,5 @@
+# exe-files
+*.exe/
+
+# o-files
+*.o/
